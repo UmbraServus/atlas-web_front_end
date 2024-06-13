@@ -32,6 +32,8 @@ h4,
 h5,
 h6 {
     font-family: var(--font-family-title);
+
+    font-weight: var(--font-weight-bold);
 }
 
 body {
@@ -41,7 +43,7 @@ body {
 
     font-size: var(--font-size-medium);
 
-    font-weight: var(--font-weight-bold);
+    font-weight: var(--font-weight-regular);
 }
 
 a {
