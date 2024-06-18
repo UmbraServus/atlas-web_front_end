@@ -211,9 +211,9 @@
         --section-title-color: var(--color-black)
     }
 
-    * {
-        margin:
-        padding: 
+    *,
+    *::before,
+    *::after {
         box-sizing: border-box;
     }
 
