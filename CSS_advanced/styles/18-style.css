@@ -107,7 +107,7 @@
         text-align: center;
        }
 
-       .nav .nav-item{
+       .nav .nav-item {
         font-family: var(--nav-item-font-famiy);
         font-weight: var(--nav-item-font-weight);
         font-size: var(--nav-item-font-size);
@@ -118,7 +118,7 @@
 
        .nav .nav-link {
         display: block;
-        padding: .5rem 1rem;
+        padding: 0.5rem 1rem;
 
        }
        
