@@ -253,9 +253,9 @@ a:active {
 
 .card-work .card-inner {
     position: absolute;
-    top: -0.01rem;
-    left: -0.01rem;
-    right: -0.01rem;
+    top: -0.1rem;
+    left: -0.1rem;
+    right: -0.1rem;
     z-index: 1;
 }
 
