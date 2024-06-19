@@ -278,6 +278,7 @@ a:active {
 }
 
 .card-work .card-title a::after {
+    content: "";
     position: absolute;
     top: 0;
     left: 0;
@@ -285,7 +286,7 @@ a:active {
     bottom: 0;
 }
 
-.card-work .card-title:hover {
+.card-work:hover .card-title {
     opacity: 1;
 }
 
